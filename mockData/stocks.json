@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 185.34,
+    "volume": 1000000
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 2750.65,
+    "volume": 500000
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "price": 725.15,
+    "volume": 2000000
+  }
+]
